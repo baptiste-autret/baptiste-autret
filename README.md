@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis un jeune développeur actuellement en BTS SIO.
+Jeune développeur actuellement en BTS SIO.
 
 
 ## 🌐 Socials:
