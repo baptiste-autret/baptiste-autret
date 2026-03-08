@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jeune développeur actuellement en BTS SIO.
+Jeune développeur agé de 19 ans et actuellement en BTS SIO.
 
 
 ## 🌐 Socials:
