@@ -1,8 +1,8 @@
-# ♦️ About Me:
+# 👤 About Me:
 I'm a 19-year-old developer, currently in BTS SIO.
 
 
-## 👤 Socials:
+## ♦️ Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@baptiste.autret) 
 
 # 💻 Tech Stack:
