@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ♦️ About Me:
 I'm a 19-year-old developer, currently in BTS SIO.
 
 
