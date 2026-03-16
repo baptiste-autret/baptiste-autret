@@ -15,7 +15,4 @@ I'm a 19-year-old developer, currently in BTS SIO.
 ### ✍️ - Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=baptiste-autret&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
