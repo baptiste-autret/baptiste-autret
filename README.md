@@ -8,4 +8,10 @@ Currently studying **BTS SIO (SLAM option – Software Development)**.
 ## 🚀 - Projects
 
 - **twitter-clone-android**  
-  Small Android project inspired by Twitter to practice mobile development.
+  Android project inspired by Twitter (work in progress)
+
+- **python-arcade-game**  
+  Educational project (fork) – arcade game in Python using venv
+
+- **statistiques-basket**  
+  Java project for basketball statistics
