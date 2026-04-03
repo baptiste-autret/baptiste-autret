@@ -1,4 +1,4 @@
-## 👨‍💻 - About Me:
+## 👤 - About Me:
 Hi, I'm Baptiste, a 19-year-old developer from France.  
 Currently studying **BTS SIO (SLAM option – Software Development)**.
 
