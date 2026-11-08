@@ -9,9 +9,3 @@ Currently studying **L3 CDA (Software Engineer)**.
 
 - **twitter-clone-android**  
   Android project inspired by Twitter (work in progress)
-
-- **python-arcade-game**  
-  Educational project (fork) – arcade game in Python using venv
-
-- **statistiques-basket**  
-  Java project for basketball statistics
