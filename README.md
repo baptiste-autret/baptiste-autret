@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Baptiste, a 19-year-old developer from France.  
+Hi, I'm Baptiste, a 20-year-old developer from France.  
 Currently studying **L3 CDA (Software Engineer)**.
 
 ## Tech Stack
