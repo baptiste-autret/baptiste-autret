@@ -11,4 +11,4 @@ Currently studying **L3 CDA (Software Engineer)**.
   Android project inspired by Twitter (work in progress)
 
 - **issue-resolution-panel**
-Problem-solving web application developed during an internship, adapted for demonstration purposes.
+- Problem-solving web application developed during an internship, adapted for demonstration purposes.
